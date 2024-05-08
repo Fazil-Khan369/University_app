@@ -1,0 +1,4 @@
+module RealmCoreResources {
+umbrella "/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/spm"
+export *
+}

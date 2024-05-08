@@ -1,0 +1,4 @@
+module s2geometry {
+umbrella "/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/external/s2"
+export *
+}

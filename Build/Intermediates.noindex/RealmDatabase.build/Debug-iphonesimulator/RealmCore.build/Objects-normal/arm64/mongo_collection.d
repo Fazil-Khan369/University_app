@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/object-store/sync/mongo_collection.cpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/object-store/sync/mongo_collection.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/bson/bson.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/bson/indexed_map.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/bson/regular_expression.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/bson/min_key.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/bson/max_key.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/bson/mongo_timestamp.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/span.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/assert.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/features.h \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/terminate.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/to_string.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/optional.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/version.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/binary_data.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/owned_data.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/utilities.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/functional.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/type_traits.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/safe_int_ops.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/timestamp.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/null.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/exceptions.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/status.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/error_codes.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/error_codes.h \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/bind_ptr.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/decimal128.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/string_data.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/object_id.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/uuid.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/object-store/sync/app_service_client.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/object-store/sync/generic_network_transport.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/util/uri.hpp \
+  /Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-core/src/realm/status_with.hpp

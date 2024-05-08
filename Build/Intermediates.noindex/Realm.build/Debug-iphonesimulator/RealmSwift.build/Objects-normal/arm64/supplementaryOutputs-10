@@ -1,0 +1,36 @@
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/RealmKeyedCollection.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.o"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.dia"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/RealmProperty.swift":
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmProperty.o"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmProperty.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmProperty.swiftdeps"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmProperty.swiftconstvalues"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmProperty.dia"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/Schema.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Schema.swiftconstvalues"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Schema.o"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Schema.d"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Schema.dia"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Schema.swiftdeps"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/RealmConfiguration.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.swiftconstvalues"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.o"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.dia"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/Results.swift":
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Results.o"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Results.swiftdeps"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Results.swiftconstvalues"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Results.dia"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Results.d"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/SectionedResults.swift":
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SectionedResults.swiftdeps"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SectionedResults.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SectionedResults.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SectionedResults.d"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SectionedResults.dia"

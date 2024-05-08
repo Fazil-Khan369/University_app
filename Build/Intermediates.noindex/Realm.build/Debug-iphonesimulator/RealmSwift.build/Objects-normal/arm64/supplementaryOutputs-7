@@ -1,0 +1,42 @@
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/Map.swift":
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Map.swiftdeps"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Map.d"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Map.dia"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Map.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Map.swiftconstvalues"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/List.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/List.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/List.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/List.swiftdeps"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/List.o"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/List.dia"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/LinkingObjects.swift":
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/LinkingObjects.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/LinkingObjects.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/LinkingObjects.dia"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/LinkingObjects.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/LinkingObjects.swiftconstvalues"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/MongoClient.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MongoClient.swiftconstvalues"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MongoClient.o"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MongoClient.d"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MongoClient.dia"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MongoClient.swiftdeps"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/Impl/SchemaDiscovery.swift":
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SchemaDiscovery.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SchemaDiscovery.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SchemaDiscovery.d"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SchemaDiscovery.dia"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/SchemaDiscovery.swiftdeps"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/Migration.swift":
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Migration.dia"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Migration.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Migration.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Migration.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Migration.swiftdeps"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/realm-swift/RealmSwift/MutableSet.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MutableSet.swiftconstvalues"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MutableSet.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MutableSet.dia"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MutableSet.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/MutableSet.o"

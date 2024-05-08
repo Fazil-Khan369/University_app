@@ -1,0 +1,36 @@
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Core/Notifications.swift":
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.dia"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Notifications.swiftconstvalues"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoder.swift":
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.dia"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Core/HTTPMethod.swift":
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.dia"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftdeps"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Core/HTTPHeaders.swift":
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.dia"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/HTTPHeaders.d"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Core/Protected.swift":
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.d"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.swiftconstvalues"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.swiftdeps"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.o"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.dia"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoding.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftconstvalues"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftdeps"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.d"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.dia"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.o"

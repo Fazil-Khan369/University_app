@@ -1,0 +1,30 @@
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/Combine.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.swiftconstvalues"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.dia"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.o"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Combine.swiftdeps"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/Concurrency.swift":
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.dia"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Concurrency.swiftconstvalues"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/MultipartFormData.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.o"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/MultipartFormData.dia"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift":
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.o"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.dia"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftconstvalues"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/EventMonitor.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftconstvalues"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftdeps"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.o"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.d"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/EventMonitor.dia"

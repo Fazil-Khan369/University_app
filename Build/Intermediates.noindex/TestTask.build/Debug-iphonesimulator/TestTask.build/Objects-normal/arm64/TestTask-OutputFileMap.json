@@ -1,0 +1,138 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/TestTask-master.dia",
+    "emit-module-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/TestTask-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/TestTask-master-emit-module.dia",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/TestTask-master.swiftdeps"
+  },
+  "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryDetails/DetailsEntity.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsEntity.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsEntity.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsEntity.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsEntity.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsEntity.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsEntity.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsEntity.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsEntity~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryDetails/DetailsPresenter.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsPresenter.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsPresenter.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsPresenter.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsPresenter.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsPresenter.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsPresenter.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsPresenter.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsPresenter~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryDetails/DetailsRouter.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsRouter.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsRouter.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsRouter.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsRouter.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsRouter.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsRouter.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsRouter.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsRouter~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryDetails/DetailsViewController.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsViewController.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsViewController.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsViewController.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsViewController.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsViewController.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsViewController.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsViewController.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/DetailsViewController~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryList/ListingEntity.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingEntity.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingEntity.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingEntity.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingEntity.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingEntity.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingEntity.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingEntity.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingEntity~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryList/ListingInteractor.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingInteractor.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingInteractor.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingInteractor.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingInteractor.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingInteractor.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingInteractor.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingInteractor.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingInteractor~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryList/ListingPresenter.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingPresenter.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingPresenter.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingPresenter.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingPresenter.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingPresenter.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingPresenter.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingPresenter.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingPresenter~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryList/ListingRouter.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingRouter.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingRouter.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingRouter.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingRouter.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingRouter.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingRouter.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingRouter.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingRouter~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryList/ListingViewCell.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewCell.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewCell.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewCell.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewCell.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewCell.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewCell.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewCell.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewCell~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/Modules/CountryList/ListingViewController.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewController.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewController.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewController.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewController.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewController.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewController.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewController.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/ListingViewController~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/TestTask/AppDelegate.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/fazilp/TestTask/TestTask/SceneDelegate.swift" : {
+    "const-values" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/fazilp/TestTask/Build/Intermediates.noindex/TestTask.build/Debug-iphonesimulator/TestTask.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  }
+}

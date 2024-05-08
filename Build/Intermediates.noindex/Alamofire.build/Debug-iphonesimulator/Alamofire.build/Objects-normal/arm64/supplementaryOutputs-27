@@ -1,0 +1,30 @@
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/ResponseSerialization.swift":
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.o"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.dia"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ResponseSerialization.swiftconstvalues"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift":
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.o"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.swiftconstvalues"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.swiftdeps"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.dia"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift":
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.d"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.dia"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.swiftdeps"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.swiftconstvalues"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.o"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/RetryPolicy.swift":
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.d"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.o"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.dia"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.swiftdeps"
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RetryPolicy.swiftconstvalues"
+"/Users/fazilp/Library/Developer/Xcode/DerivedData/TestTask-gwsjakvdcqouzjgyxegjnavduhcd/SourcePackages/checkouts/Alamofire/Source/Features/Validation.swift":
+  const-values: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.swiftconstvalues"
+  diagnostics: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.dia"
+  object: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.o"
+  dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.d"
+  swift-dependencies: "/Users/fazilp/TestTask/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Validation.swiftdeps"
